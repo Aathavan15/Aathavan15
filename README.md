@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️I am Aathavan R <br>👨🏻‍🎓I am a B.E Computer Science and Engineering graduate of batch 2026<br>📚I am currently studing Data Acience<br>👨🏻‍💻I like to work with many companies with my extaordinary python skills <br>📱If You like to Contact aathavan347@gmail.com<br>
+🙋🏻‍♂️I am Aathavan R <br>👨🏻‍🎓I am a B.E Computer Science and Engineering graduate of batch 2026<br>📚I am currently studing Data Science<br>👨🏻‍💻I like to work with many companies with my extaordinary python skills <br>📱If You like to Contact aathavan347@gmail.com<br>
 
 
 ## 🌐 Socials:
